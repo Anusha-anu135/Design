@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What is React?",
+    "options": ["Library", "Framework", "Language", "Compiler"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "What does JSX stand for?",
+    "options": ["JavaScript XML", "JavaScript Extension", "JavaScript eXecute", "Java Syntax Extension"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "Which hook is used for side effects?",
+    "options": ["useState", "useEffect", "useReducer", "useMemo"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "What is a React Fragment?",
+    "options": ["Group elements without extra node", "Empty component", "Deprecated feature", "Built-in component"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "What is the default value of `useState`?",
+    "options": ["null", "undefined", "Depends on what you pass", "0"],
+    "correctAnswer": 2
+  }
+]
